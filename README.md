@@ -1,6 +1,6 @@
 ## Hi 👋 my name is Yi-Ning Huang 
 
-I'm a Data Engineer/ BI Engineer since 2020, developing data engineering and analytics solutions to drive business insights. I leverage SQL, Python and primarily Azure, Snowflake to build data pipelines, use Tableau to visulize business findings, and present them to stakeholders.
+I'm a Data Engineer/ BI Engineer since 2020, developing data engineering and analytics solutions to drive business insights. I leverage SQL, Python, Azure, Snowflake to build data pipelines, use Tableau to visulize and present business findings to stakeholders.
 
 - 🇹🇼 🇺🇸 I'm from Taiwan and currently living in the San Francisco Bay Area in United States 
 - 💻 I use daily: **.sql**, **.py**
