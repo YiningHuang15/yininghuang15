@@ -31,9 +31,9 @@ I'm a Data Engineer/ BI Engineer since 2020, developing data engineering and ana
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📝 My Latest Blog Post
-- ![SQL & Python Data Manipulation Side by Side Comparison — Part 2](https://medium.com/@huasa0115/sql-python-data-manipulation-side-by-side-comparison-part-2-9e44679e53e2)
-- ![SQL & Python Data Manipulation Side by Side Comparison — Part 1](https://medium.com/@huasa0115/sql-python-data-manipulation-side-by-side-comparison-part-1-3c192fff96d3)
-- ![Understanding Apache Spark APIs: RDDs, DataFrames, and Datasets](https://medium.com/@huasa0115/compare-apache-spark-apis-rdds-dataframes-and-datasets-830dabaa9da1)
+- [SQL & Python Data Manipulation Side by Side Comparison — Part 2](https://medium.com/@huasa0115/sql-python-data-manipulation-side-by-side-comparison-part-2-9e44679e53e2)
+- [SQL & Python Data Manipulation Side by Side Comparison — Part 1](https://medium.com/@huasa0115/sql-python-data-manipulation-side-by-side-comparison-part-1-3c192fff96d3)
+- [Understanding Apache Spark APIs: RDDs, DataFrames, and Datasets](https://medium.com/@huasa0115/compare-apache-spark-apis-rdds-dataframes-and-datasets-830dabaa9da1)
 
 ### 🎖️ Certificates
 - SnowPro Core Certificate
