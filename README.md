@@ -2,7 +2,7 @@
 
 I'm a Data Engineer/ BI Engineer since 2020, developing data engineering and analytics solutions to drive business insights. I leverage SQL, Python, Azure, Snowflake to build data pipelines, use Tableau to visulize and present findings to stakeholders.
 
-- 🇹🇼 🇺🇸 I'm from Taiwan and currently living in the San Francisco Bay Area in United States 
+- 🇹🇼 🇺🇸 I'm from Taiwan and currently living in the San Francisco Bay Area in the United States 
 - 💻 I use daily: **.sql**, **.py**
 - ✍️ I regularly write technical articles in [Medium](https://medium.com/@huasa0115)
 - 📚 I'm currently reading [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
